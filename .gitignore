@@ -48,3 +48,5 @@ admission_node.json
 notice_node.json
 career_node.json
 
+# Database
+!prisma/dev.db
