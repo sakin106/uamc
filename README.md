@@ -116,4 +116,4 @@ uttara-adunik-medical-college/
 
 ## 📄 License
 
-Proprietary — Developed for **Uttara Adhunik Medical College & Hospital**. All rights reserved.
+Proprietary — Developed by **Sakin Bin Jabed** for **Uttara Adhunik Medical College & Hospital**. All rights reserved.
